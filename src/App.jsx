@@ -4,7 +4,7 @@ import Navbar from "./components/navbar/Navbar";
 import library from "./pages/library";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
-// import Borrowed from "./pages/Borrowed";
+import Borrowed from "./pages/Borrowed";
 import CartCheckout from "./pages/CartCheckout"; 
 
 const App = () => {

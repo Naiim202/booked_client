@@ -10,9 +10,9 @@ const Navbar = () => {
       </div>
       <ul className="navbar-links">
        
-        {/* <li>
+        <li>
           <Link to="/borrow">Borrow</Link>
-        </li> */}
+        </li>
         <li>
           <Link to="/login">Login</Link>
         </li>
